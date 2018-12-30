@@ -1,0 +1,31 @@
+body {
+  background-color: #ffe6eb;
+  text-align: center;
+  margin: 0;
+}
+
+.container {
+  background-color: #defcfc;
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+
+#top {
+  margin-top: 0;
+}
+
+hr {
+  border-color: #a6e3e9;
+  border-style: none;
+  border-top-style: dotted;
+  width: 200px;
+  border-width: 20px;
+  margin: 40px auto 20px;
+}
+
+img {
+  border-style: solid;
+  border-width: thick;
+  border-color: black;
+}
